@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Write Ansible Playbook on Packer Ansible Terraform for Immutable Infrastructure</title>
+    <link>//localhost:1313/5-ansible/</link>
+    <description>Recent content in Write Ansible Playbook on Packer Ansible Terraform for Immutable Infrastructure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/5-ansible/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
