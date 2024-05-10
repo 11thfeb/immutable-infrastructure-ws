@@ -402,7 +402,7 @@ resource "aws_db_instance" "example" {
 }
 ```
 
-8. Create a file main.tf in /prod/data-stores/mysql directory
+8. Create a file variables.tf in /prod/data-stores/mysql directory
 
 ```hcl
 # ---------------------------------------------------------------------------------------------------------------------
@@ -434,7 +434,7 @@ variable "db_name" {
 }
 ```
 
-9. Create a file main.tf in /prod/data-stores/mysql directory
+9. Create a file outputs.tf in /prod/data-stores/mysql directory
 
 ```hcl
 output "address" {
